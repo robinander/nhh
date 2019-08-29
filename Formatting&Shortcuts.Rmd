@@ -1,0 +1,26 @@
+---
+title: "Formatting&Shortcuts"
+author: "Thomas Langeland"
+date: "29 8 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+ctrl + shift + R - section
+ctrl + shift + A - reformat section
+
+ctrl + shift + N - new file
+ctrl + tab - change forwards between files
+ctrl + shift + tab - change backwards between files
+
+Alt + Up/Down - move lines of code up/down
+ctrl + shift + C - comment out selected code
+ctrl + up - shows command history (when you are in the console)
+
+ctrl  + 1/2/3/4... - move around different panes
+
+Alt + -  - insert assignment
+ctrl + shift + m - insert pipe 
+
